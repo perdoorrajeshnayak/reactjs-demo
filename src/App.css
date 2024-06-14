@@ -8,15 +8,15 @@
   width:4em;
 }
 nav{
-  background-color: #00FF00;
+  background-color: #ffa600;
 }
 nav .nav-wrapper{
   width: 80%;
   margin: auto;
 }
 .page-footer{
-  background-color: #00FF00;
+  background-color: #FF0037;
 }
 .card.blink{
-  background-color: #00FF00 !important;
+  background-color: #FF0037 !important;
 }
